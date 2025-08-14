@@ -22,7 +22,7 @@ This calculator allows you to perform "basic arithmetic operations" like additio
  🚀 How to Run
 1. *Clone the repository*  
    ```bash
-   git clone https://github.com/your-username/calculator.git
+   git clone https://github.com/Anushree-123-S/calculator.git
 
 2. Navigate to the project folder
 
